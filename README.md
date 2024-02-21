@@ -1,4 +1,4 @@
-### Hi there 👋
+### Defining AI ###
 
 <!--
 **AusinAI/AusinAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE" url= "https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg">
+ <img media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE" url= "https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg">
 </picture>
 
